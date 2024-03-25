@@ -1,0 +1,19 @@
+ls:查看工作区文件
+git ls-files:查看暂存区文件
+git status: 查看仓库中文件
+
+
+git add:将工作区文件添加到暂存区
+
+git commit:将暂存区文件添加到仓库
+
+git reset: git reset --mixed(commit id)
+
+git diff: 查看工作区,暂存区,仓库中的差异
+
+git rm:将工作区和暂存区的文件一起删除
+
+gitignore:忽略部分文件
+
+git pull:远程仓库同步到本地仓库
+git push:本地仓库上传远程仓库
